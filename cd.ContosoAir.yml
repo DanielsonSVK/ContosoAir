@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  vmImage: default
+  name: default
 
 resources:
   pipelines:
